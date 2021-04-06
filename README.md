@@ -1,4 +1,4 @@
-## Hello there ! I'm Nicolas - aka TA1GA
+## Hello there ! I'm Nicolas - aka nicolasmf
 
 ## I'm a computer science student !
 - 🏫 Studying in EFREI Paris
