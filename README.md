@@ -2,5 +2,5 @@
 
 ## I'm a computer science student !
 - 🏫 Studying in EFREI Paris
-- 🎒 Actually on second year
+- 🎒 Actually on third year
 - 😁 I'm learning git, and a lot of fun languages !
