@@ -4,7 +4,3 @@
 - 🏫 Studying in EFREI Paris
 - 🎒 Actually on my third year
 - 😁 I'm learning git, and a lot of fun languages !
-
-## Looking for an internship !
-
-I am currently looking for a 24-month internship starting in September 2022 in the field of cybersecurity. My rhythm would be 3 days on-site / 2 days at school. 
